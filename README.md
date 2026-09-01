@@ -24,7 +24,7 @@ The project transforms raw data into meaningful insights through data cleaning, 
 ## 📊 Dashboards
 
 ### Excel Dashboard
-![Excel Dashboard](e-commerce dashboard excel.GITHUB.jpeg)
+![Excel Dashboard](e commerce dashboard excel.GITHUB.jpeg)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](e-commerce dashboard powerbi.GITHUB.jpeg)
