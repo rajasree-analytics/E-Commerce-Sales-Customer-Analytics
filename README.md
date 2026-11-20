@@ -45,6 +45,6 @@ The project transforms raw data into meaningful insights through data cleaning, 
 - The dashboards help support data-driven business decisions.
 
 ## 👩‍💻 Author
-*Rajasree Vankadoth*
+*Rajasree*
 
 Aspiring Data Analyst | Excel | MySQL | Power BI | Tableau
