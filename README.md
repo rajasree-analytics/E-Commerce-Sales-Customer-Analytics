@@ -29,9 +29,12 @@ The project transforms raw data into meaningful insights through data cleaning, 
 
 ### Power BI Dashboard
 ![Power BI Dashboard](e-commerce dashboard powerbi.GITHUB.jpeg)
+[📥 Download Excel Project](https://drive.google.com/file/d/1DeZzBXO3xo-5XzpnWWchmej-i43y2qCF/view?usp=sharing)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](e-commerce dashboard tableau.GITHUB.jpeg)
+[📥 Download Excel Project](https://drive.google.com/file/d/11VQF-p4v0lhWvyAtiRvUgtTC9I_ayogh/view?usp=sharing)
+
 
 ## 🔍 Key Insights
 - Weekday orders and payments performed better compared to weekends.
